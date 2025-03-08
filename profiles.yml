@@ -1,0 +1,13 @@
+dbtlearn:
+  outputs:
+    dev:
+      account: ezmttae-xt64909
+      database: AIRBNB
+      password: PeK9p33TXSLPQ5c
+      role: transform
+      schema: AIRBNB.RAW
+      threads: 1
+      type: snowflake
+      user: Har15
+      warehouse: COMPUTE_WH
+  target: dev
