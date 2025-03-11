@@ -38,7 +38,7 @@ models:
     dim:
       +materialized: table
     src:
-      +materialized: ephemeral
+      +materialized: table
 
 vars:
   user_name: "Har15"
